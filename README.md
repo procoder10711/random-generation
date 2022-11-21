@@ -4,3 +4,9 @@ Using Python libraries to test random number generation and functionalities of r
 Libraries used:  
 1. random  
 2. secrets  
+
+Library Installation:  
+random:  
+pip install random  
+secrets:  
+pip install secrets  
